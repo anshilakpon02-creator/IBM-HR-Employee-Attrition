@@ -25,7 +25,6 @@ data-driven insights to help organizations reduce attrition.
 ## 🤖 Machine Learning Models Used
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
-- Decision Tree
 
 ## 📈 Dashboard
 An interactive Power BI dashboard was created to visualize:
